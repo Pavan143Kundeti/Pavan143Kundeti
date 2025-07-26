@@ -1,91 +1,140 @@
-<h1 align="center">👋 Hi, I'm KONDETI PAVAN KUMAR</h1>
+<!-- GitHub Profile README -->
+
+<h1 align="center">Hi 👋, I'm Kondeti Pavan Kumar</h1>
+<h3 align="center">🎓 BTech in AI & Data Science | 💻 Java, Python, Full Stack Developer | 🤖 AI Enthusiast</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42F7E2&center=true&vCenter=true&width=435&lines=Final+Year+BTech+Student+%F0%9F%8E%93;Aspiring+Cloud+%7C+AI+Engineer+%E2%98%81%EF%B8%8F;Passionate+Python+%7C+Fullstack+Developer+%F0%9F%90%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75000&center=true&vCenter=true&width=500&lines=Passionate+Developer;AI+%7C+ML+Learner;Spring+Boot+%7C+Python+%7C+React;Open+Source+Contributor+%7C+Eager+to+Learn" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌟 About Me
+## 🙋‍♂️ About Me
 
-- 🎓 Final Year BTech Student – *Artificial Intelligence & Data Science*
-- 🧠 Exploring AI, Cloud Computing, DevOps, and Full-Stack Web Development
-- 💻 Building real-time AI & automation projects to help society
-- 🔍 Actively seeking **Internships/Full-Time Roles** in **AI | Cloud | Python | Web Dev**
-- 🗣 Pronouns: **He/Him**
-- 🌱 Currently learning **AWS**, **Ansible**, and **React**
+- 🎓 Completed **BTech in Artificial Intelligence & Data Science**  
+  from *Annamacharya Institute of Technology & Sciences*  
+  with **83% / 8.73 CGPA**
 
----
+- 💻 Strong in **Java**, **Spring Boot**, **Python**, **Web Development**, and **AI Projects**
 
-## 🛠️ Tech & Tools
+- 🚧 Built multiple real-world applications using **Spring Boot**, **MySQL**, **HTML/CSS/JS**, **Streamlit**, etc.
 
-### 💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+- 🌱 Currently learning: `React`, `Node.js`, `Ansible`, and `Large Language Models`
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### 🧪 Tools & Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- 📫 Reach Me:  
+  ✉️ kondetipavankumar@gmail.com  
+  🔗 [LinkedIn](https://www.linkedin.com/in/pavan143kundeti) | [GitHub](https://github.com/Pavan143Kundeti)
 
 ---
 
 ## 🚀 Projects
 
-### 🎙️ [Virtual Assistant](https://github.com/Pavan143Kundeti/VirtualAssistant)
-> Python-based AI assistant with speech recognition, text-to-speech, web search, timers, math, and more. Supports both online & offline modes.
+### 🔊 Text-to-Podcast-with-Subtitles  
+**Convert any text script into a podcast** with automatic text-to-speech and subtitle generation. Features include:
+- 🎙️ Text-to-speech engine  
+- 🎧 Web player for listening  
+- 📄 Auto-generated subtitles  
+- 💾 Export as MP3/WAV  
 
-### 🎥 [Movie Recommendation System](https://github.com/Pavan143Kundeti/Movie-Recommendation-System)
-> Machine Learning & Streamlit app recommending movies based on user preference. Now enhanced with login/logout and real-time features.
-
-### 🏨 [QuickStay](https://github.com/Pavan143Kundeti/QuickStay)
-> Frontend-only hotel booking website built with HTML, CSS, JS & Bootstrap. Dark mode, multi-language, Indian themes, accessibility, and more.
-
-### 💼 [JobWise AI](https://github.com/Pavan143Kundeti/JobWise-AI)
-> Real-time job discovery platform powered by ChatGPT API. Users can search jobs, post them, and get voice/chatbot support instantly.
+Tech Stack: `Python`, `Streamlit`, `gTTS`, `MoviePy`, `HTML/CSS`
 
 ---
 
-## 📜 Certifications
+### 🏨 Hotel-Ratings-Microservices  
+Spring Boot microservices project showcasing:
+- 🧩 Service Discovery with Eureka  
+- 🌐 API Gateway with communication between services  
+- 🧑‍💼 User, Hotel, and Rating services  
+- 📄 Postman test collection and Thymeleaf frontend  
+- ❌ No external database needed
 
-- 🎓 **AWS Cloud Practitioner Essentials** – *AWS Training & Certification*
-- 📘 **IBM Introduction to Data Science**
-- 🔧 *More listed on [LinkedIn](https://www.linkedin.com/in/Pavan143Kundeti)*
+Tech Stack: `Java`, `Spring Boot`, `Eureka`, `Thymeleaf`
 
 ---
 
-## 📈 GitHub Stats
+### 🗳️ Voting App  
+A secure online voting system with:
+- 🔐 User Registration and Login  
+- 👨‍💼 Admin Dashboard  
+- 📊 Real-time Vote Tracking  
+- 🗂️ MySQL database
+
+Tech Stack: `Java`, `Spring Boot`, `MySQL`, `Thymeleaf`, `JPA`
+
+---
+
+### 🛒 Java-Ecommerce-Website  
+A complete online electronics shopping application:
+- 🛍️ Product Catalog with Cart  
+- 👤 User and Admin panels  
+- 🧾 Checkout & Payment  
+- ⚙️ JSP, Servlets, and Tomcat ready
+
+Tech Stack: `Java`, `J2EE`, `JSP`, `Servlets`, `Bootstrap`, `MySQL`, `Maven`
+
+---
+
+### 📇 ContactManager  
+A personal contact management system:
+- 🔑 Role-based authentication  
+- 📧 Email OTP Verification  
+- 💳 Payment Integration  
+- 🔁 REST APIs with secure backend
+
+Tech Stack: `Java`, `Spring Boot`, `Spring Security`, `MySQL`
+
+---
+
+## 🧠 Skills & Tools
+
+### 👨‍💻 Programming
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 🌐 Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+### 🧩 Frameworks & DB
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+## 🏆 Certifications
+
+- ✅ [AWS Cloud Practitioner Essentials – AWS Training & Certification (2025)](https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/)
+- ✅ [IBM – Introduction to Data Science](https://cognitiveclass.ai/courses/introduction-to-data-science)
+- ✅ [NPTEL – Joy of Computing using Python](https://nptel.ac.in/noc)
+- ✅ [SkillDzire – Full Stack Java Development]
+- ✅ [APSSDC – Data Science Internship]
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pavan143Kundeti&show_icons=true&theme=tokyonight" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan143Kundeti&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pavan143Kundeti&show_icons=true&theme=radical" alt="Pavan GitHub stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=Pavan143Kundeti&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan143Kundeti&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 📫 Contact Me
+## 💬 Let's Connect!
 
-- 📧 Email: **your.email@example.com**
-- 🌐 Portfolio: *[your-portfolio-link.com](https://your-portfolio-link.com)*
-- 💼 LinkedIn: [linkedin.com/in/Pavan143Kundeti](https://www.linkedin.com/in/Pavan143Kundeti)
-
----
-
-> 💡 *“Learning never exhausts the mind, it only ignites it.”*  
-> — **Leonardo da Vinci**
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/pavan143kundeti"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:kondetipavankumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Pavan143Kundeti"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+</p>
